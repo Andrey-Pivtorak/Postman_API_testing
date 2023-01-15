@@ -1,1 +1,0 @@
-{"name":"kiwi","price":12,"sku":87345748,"description":"it's an exotic fruit","id":4}

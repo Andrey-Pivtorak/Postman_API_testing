@@ -1,1 +1,0 @@
-{"name":"lemon","price":10,"sku":87345748,"description":"It is a yellow, very sour but healthy fruit.","id":4}
