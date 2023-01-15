@@ -1,0 +1,1 @@
+{"firstName":"Oleg","lastName":"Petrov","email":"ivan-petrov@gmail.com","dateOfBirth":"1998-04-25","emailVerified":true,"signUpDate":"2017-01-03","status":"passive","level":"master","id":10}
