@@ -1,1 +1,0 @@
-{"name":"smartphone","sku":333535,"id":4}
